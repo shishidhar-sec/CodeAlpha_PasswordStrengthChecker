@@ -21,4 +21,4 @@ This project demonstrates how password strength can be assessed using common sec
 - Overall strength rating (Weak / Medium / Strong)
 
 ## Status
-Project initialized
+Project completed
